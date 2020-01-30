@@ -1,0 +1,16 @@
+https://github.com/revathy2505/MNIST-notMNIST-attack---FGSM-and-JSMA
+
+
+765 adversarial examples have been saved.
+--------------------------------------
+Avg. rate of successful adv. examples 0.8500
+Avg. rate of perturbed features 0.0483
+Avg. rate of perturbed features for successful adversarial examples 0.0349
+
+
+100 adv cifar
+---------
+Avg. rate of successful adv. examples 0.7844
+Avg. rate of perturbed features 0.0410
+Avg. rate of perturbed features for successful adversarial examples 0.0217
+
